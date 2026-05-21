@@ -1,6 +1,4 @@
 # programa-MEN-RESTAURANTE---SISTEMA-DE-PEDIDOS
-menu de restaurante que toma pedido , aplica descuentos con ciertas condiciones y al final genera una factura mostrando todos los productos seleccionados y el valor total a pagar.
-# programa-MEN-RESTAURANTE---SISTEMA-DE-PEDIDOS
 Menu de restaurante que toma pedido , aplica descuentos con ciertas condiciones y al final genera una factura mostrando todos los productos seleccionados y el valor total a pagar.
 #Nombre Estudiante :Juan sebastian muñoz lopez
 #Grupo :FUNDAMENTOS DE PROGRAMACIÓN - (213022A_2201)
